@@ -20,6 +20,7 @@ The dataset was cleaned and analyzed to identify global population trends, growt
 - The highest population growth rates are seen in African nations
 - Countries with negative or slow growth include Japan and some European nations due to aging populations.
 #### **Correlation Heatmap Insights**
+![plot](https://github.com/Debraj-Bora/Python-Portfolio/blob/main/World%20Population/heatmap.png)
 - Population and Area showed moderate correlation (~0.45), meaning larger countries tend to have higher populations, but this is not always the case.
 - Density and Growth Rate had a weak negative correlation (~-0.07), implying that denser countries may not necessarily have high growth rates.
 - Rank and Population showed an inverse correlation (~-0.35), meaning countries with higher ranks had lower populations.
