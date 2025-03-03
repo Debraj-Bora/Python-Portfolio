@@ -36,4 +36,5 @@ impact. For this correlation matrix and heatmaps were utilised.
 - Stronger social support is linked with better health outcomes, as seen in its correlation with Healthy Life Expectancy (0.77).
 - Max Infection Rate and Max Death Rate have weak correlations with economic and social factors, suggesting that external factors (such as healthcare infrastructure, government policies, and disease control measures) play a larger role.
 
+Libraries Used: Pandas, Numpy, Matplotlib, Seaborn.
 View the python notebook [here](https://github.com/Debraj-Bora/Python-Portfolio/blob/main/Covid19%20Analysis/covid19%20data%20analysis%20notebook.ipynb).
